@@ -11,5 +11,4 @@ byte for byte.
 
 To update it, compare the new upstream files with this tag and carry the changes over.
 
-License: Zstandard is distributed under the BSD license or the GPLv2, at the user's choice; Mirai
-uses the BSD license.
+License: Zstandard is distributed under the BSD license.
