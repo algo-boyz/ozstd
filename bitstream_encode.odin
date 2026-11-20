@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 // Writes forward; the reader goes backward. The register is 64 bits on every supported platform.
 

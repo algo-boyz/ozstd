@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 FSE_NCOUNTBOUND :: 512
 FSE_DEFAULT_TABLELOG :: 11

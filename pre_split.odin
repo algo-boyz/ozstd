@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 SPLIT_BLOCK_WORKSPACE_SIZE :: 8208
 

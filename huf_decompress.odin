@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 HUF_DECODER_FAST_TABLELOG :: 11
 HUF_DECOMPRESS_WORKSPACE_SIZE :: (2<<10)+(1<<9)

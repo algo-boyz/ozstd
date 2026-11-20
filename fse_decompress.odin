@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 // The cells of an FSE table are u32: a header, then the decoding table.
 

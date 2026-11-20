@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 // A bit stream read backwards from its last byte, whose highest set bit marks the end.
 

@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 import "base:runtime"
 

@@ -1,4 +1,4 @@
-package zstd
+package ozstd
 
 no_compress_literals :: proc "contextless" (dst:[^]u8,dst_capacity:int,src:[^]u8,src_size:int) -> (size:int,err:Error) {
     ostart:=dst
